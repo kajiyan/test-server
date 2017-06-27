@@ -1,2 +1,2 @@
 # test-server
-test server 5
+test server 6
